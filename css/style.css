@@ -48,6 +48,10 @@ body {
   margin-right: 40px;
 }
 
+.city {
+  margin-bottom: 10px;
+}
+
 .contacts-title {
   font-size: 22px;
   font-weight: 700;
