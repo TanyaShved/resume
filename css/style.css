@@ -39,7 +39,7 @@ body {
 .about-myself {
   padding-left: 35px;
   padding-right: 35px;
-  padding-top: 10px;
+  padding-top: 50px;
   /* padding-bottom: 5px; */
   color: #000000;
 }
@@ -125,6 +125,10 @@ body {
   line-height: 24px;
 }
 
+.position-slash {
+  color: #595959;
+}
+
 .name {
   font-size: 30px;
   font-weight: 700;
@@ -146,6 +150,7 @@ body {
 }
 
 .projects {
+  margin-top: 20px;
   margin-bottom: 20px;
 }
 
